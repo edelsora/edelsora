@@ -1,16 +1,37 @@
-### Hi there 👋
+### 👋 Hi, Akasia here
 
-<!--
-**edelsora/edelsora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software artist, treating the code as art and the engineering behind as its canvas. I dealing mostly about web and game development, the outlier task learning compiler, system service , etc.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning about 
+  - F# (Web dev)
+  - Haxe (Game dev)
+  - OCaml (Compiler Hell)
+  - Nim (FTW in system apps)
+- 👯 I’m looking to collaborate on 
+  - [Komputapedia](https://github.com/komputapedia)
+- 💬 Ask me about 
+    - How bad you at coding
+    - Introduction to getting started with programming
+    - Theory of computation (I currently learning about this)
+- 📫 How to reach me (unavailable to reach still had tea party with the youkais):
+  - Mastodon: [@edelsora](https://mastodon.acm.org/@edelsora)
+- 😄 Pronouns: He/Him
+- ⚡ Thunder sign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Techstacks
+
+The tool that I've been use to pouring my idea into code.
+
+  <a href="https://fsharp.org/"><img align="left" alt="fsharp" title="fsharp" width="21px" src="https://rtoal.github.io/ple/resources/fsharp-logo-24.png" /></a>
+  <a href="https://haxe.org/"><img align="left" alt="haxe" title="haxe" width="21px" src="https://haxe.org/img/branding/haxe-logo-glyph.svg" /></a>
+  <a href="https://ocaml.org/"><img align="left" alt="ocaml" title="ocaml" width="21px" src="https://rtoal.github.io/ple/resources/ocaml-logo-24.png" /></a>
+  <a href="https://nim-lang.org/"><img align="left" alt="nim" title="nim" width="21px" src="https://rtoal.github.io/ple/resources/nim-logo-24.png" /></a>
+  <br>
+  <br>
+
+### Stat
+
+I know this information is useless, but I put this to make this markdowns files not boring.
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edelsora&layout=compact&hide=html,scss,css&langs_count=8&theme=vue"/>

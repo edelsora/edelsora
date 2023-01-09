@@ -1,6 +1,6 @@
 ### 👋 Hi, Akasia here
 
-A software artist, treating the code as art and the engineering behind as its canvas. I dealing mostly about web and game development, the outlier task learning compiler, system service , etc.
+A software artist, treating the code as art and the engineering behind as its canvas. I dealing mostly about mobile and game development, the outlier task learning compiler, system service , etc.
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning about 
@@ -30,8 +30,5 @@ The tool that I've been use to pouring my idea into code.
   <br>
   <br>
 
-### Stat
 
-I know this information is useless, but I put this to make this markdowns files not boring.
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edelsora&layout=compact&hide=html,scss,css&langs_count=8&theme=vue"/>
+![:aikocount](https://count.getloli.com/get/@aedelsor?theme=rule34)

@@ -21,4 +21,4 @@
 </td>
 </table>
 
-<img src="https://count.getloli.com/get/@aedelsor?theme=rule34" width="300" />
+![:edelsora](https://count.getloli.com/get/@aedelsor?theme=gelbooru)
